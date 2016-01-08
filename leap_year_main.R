@@ -3,7 +3,7 @@
 #01/07/2016
 
 #Read R Code from leap_year_test.R, which contains the funstion leap_test
-source("leap_year_test.R")
+source("R/leap_year_test.R")
 
 # test the function with a few different input
 

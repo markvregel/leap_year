@@ -25,7 +25,7 @@ leap_test <- function(year=2009) {
 		result=TRUE
 		
 		}
-	# print the result
-	print(result)
+	# return the result
+	result
 }
 
